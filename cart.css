@@ -9,16 +9,6 @@ main{
     padding: 1rem;
 
 }
-.card{
-    display: inline-block;
-    min-height: 79vh;
-    vertical-align: top;
-}
-.card-img-top{
-    object-fit: cover;
-    height: 17.9rem; 
-    width: 17.9rem;
-}
 #cart {
     width: 80%;
     background-color: #00000088;
@@ -33,4 +23,7 @@ footer{
 .card{
     background-color:#00000088;
     color: white; 
+}
+.form-control{
+    background-color: #00000088;
 }
