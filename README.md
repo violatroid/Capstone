@@ -8,6 +8,8 @@ About My Shop:
 
 Homepage:
 My home page represents my shop introduction and appearance! Here you will see and feel the vibe of fall and Halloween and especially if it is your favorite time of the year! For order customization inquires please contact us below at the bottom of the page and provide your email.
+
+
 <img src="images/fall homepage.PNG" alt="Homepage" width="400px">
 
 
