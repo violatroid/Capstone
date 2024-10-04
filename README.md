@@ -1,33 +1,31 @@
 
-# Fall Aesthetics Shop 
+Fall Aesthetics Shop 
 
 Welcome to my **Fall Aesthetics Shop**! This shop is about my shop to sell fall themed products like candles, recipes, candy, and costumes!
 
-## 🌐 Website Previews
 
-Here are some previews of the website pages:
+About My Shop:
 
-Homepage
-<img src="preview/home.png" alt="Homepage" width="400px">
+Homepage:
+My home page represents my shop introduction and appearance! Here you will see and feel the vibe of fall and Halloween and especially if it is your favorite time of the year! For order customization inquires please contact us below at the bottom of the page and provide your email.
 
-### Products Page
-<img src="preview/products.png" alt="Products Page" width="400px">
+Shop Page:
+In my shope page my store offers recipes for families. Our E-book recipes comes with a variety of fall desserts and drinks. We also offer our handcrafted fall wreaths to hang outside your door and blend in with the beautiful orangey red fall leaves. We also have our handcrafted scented pumpkin candles that are fall themed. We have a variety of fall scents like pumpkin pie, apple cider, burnt wood, smores, cinnamon apple, and brown sugar doughnuts that are inspired by some of our e-book recipes! One candle will be Halloween decorated and the other will be a regular pumpkin candle. We also sell costumes and even candy in bulk at a reasonable price for families to receive the most out of our shop for Halloween.
 
-### Checkout Page
-<img src="preview/checkout.png" alt="Checkout Page" width="400px">
+Checkout Page:
+This page is my checkout page but however you will need an account in order to check out. That way with an account you can receive your tracking number and track your order!
 
-### Register Page
-<img src="preview/register.png" alt="Register Page" width="400px">
+Register/Login Page:
+Our login page is very simple and easy to do. If you have any trouble logging in and questions about registering please feel free to reach out to us! 
 
-### Music Page
-<img src="preview/music.png" alt="Music Page" width="400px">
-
-## 🏆 Credits
-@THOUNNY KEO
-
-## 🎓 About the Project
-
-This project is the culmination of my learnings at Year Up United’s Frontend Development program. It combines everything from **HTML/CSS**, **Bootstrap**, and incorporates advanced features like the Webamp player for enhanced user interaction.
 
 Yun Johnson 
 Frontend Development Student | Year Up United
+
+
+
+
+
+
+
+🏆T.Keo
